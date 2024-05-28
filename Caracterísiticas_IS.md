@@ -1,5 +1,3 @@
-## Ejemplos Detallados
-
 ### **Disciplinada**:
    - **Definición**: Se refiere al enfoque que se adopta para cumplir con las mejores prácticas y estándares de la industria. Una ingeniería de software disciplinada sigue reglas y procedimientos establecidos para asegurar que los productos de software sean de alta calidad y fiables.
 
