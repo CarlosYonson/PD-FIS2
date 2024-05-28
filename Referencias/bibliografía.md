@@ -1,0 +1,1 @@
+https://www.gluo.mx/blog/requisitos-no-funcionales-por-que-son-importantes#tipos-de-requisitos-no-funcionales
