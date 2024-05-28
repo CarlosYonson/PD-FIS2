@@ -1,5 +1,3 @@
-Basándome en la información de la página actual, aquí están las correcciones sugeridas en formato MD:
-
 **Relevancia del RNF**
 - **Compatibilidad Multiplataforma**: Este requerimiento no funcional es crucial para una aplicación web, ya que garantiza que los usuarios puedan acceder a la aplicación desde cualquier dispositivo con conexión a internet, lo cual es esencial para la accesibilidad y la experiencia del usuario.
 
